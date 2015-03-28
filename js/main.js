@@ -147,7 +147,7 @@ $(document).ready(function() {
 
         console.log(newLib.daysBetween("7/21/2010","6/21/2012")); // WORKS!
         console.log(newLib.checkEmail("me@gmail.com")); // WORKS!
-        console.log(newLib.checkURL("http://www.fullsail.edu")); // WORKS!
+        console.log(newLib.checkURL("http://www.phonixintl.com")); // WORKS!
         console.log(newLib.checkURL("google.com")); // WORKS!
         console.log(newLib.checkNumber("123-456-7890")); // should be true // IS FALSE
         console.log(newLib.titleString("mary had a little lamb")); // WORKS!
